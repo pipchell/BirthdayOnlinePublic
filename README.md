@@ -7,8 +7,8 @@
 - Click create
 
 ## Step One:
-- Create a suitable PNG A4 image for the front of your card and name it favicon.png
-- Create a suitable PNG icon for the browser window and name it card-front.png
+- Create a suitable PNG A4 image for the front of your card and name it card-front.png
+- Create a suitable PNG icon for the browser window and name it favicon.png
 
 ## Step Two:
 - Upload your icon (favicon) to the repo
