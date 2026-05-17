@@ -12,7 +12,7 @@
 
 ## Step Two:
 - Upload your icon (favicon) to the repo
-- Upload your A4 image to the repo
+- Upload your A4 image to the repo (2480x3508px)
 
 ## Step Three:
 - Find the example.html file
