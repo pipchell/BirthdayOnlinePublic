@@ -56,3 +56,6 @@ Your card is live at username.github.io/repo-name/recipient-name
 [Learn more about custom domains](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)
 
 Your card is live at domain.com/recipient-name
+
+© Pip Chell 
+MIT Licance
