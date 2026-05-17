@@ -6,36 +6,31 @@
 - Give it a name
 
 ## Step One:
-- Create a suitable A4 image for the front of your card
-- Create a suitable icon for the browser window
+- Create a suitable PNG A4 image for the front of your card and name it favicon.png
+- Create a suitable PNG icon for the browser window and name it card-front.png
 
 ## Step Two:
-- Upload your icon (favicon) to /user/user-favicon
-- Upload your A4 image to /user/user-img
-
-You can also put these files at root.
-
-## If you want to change the name of your images so you remember them:
-1. Click on image
-2. Click pencil icon
-3. Rename file to anything
-4. Save the file
+- Upload your icon (favicon) to the repo
+- Upload your A4 image to the repo
 
 ## Step Three:
-- Inside the user folder, find the recipients-name.html file
+- Find the example.html file
 - Open it and click on the copy icon
-- Create a new file inside the user folder called (recipients-name).html
+- Create a new file called (recipients-name).html
 - Paste the text into your new file
 
-If you put your images at root, put your html at root as well.
-
 ## Step Four:
-- Change details in your new html file
+- Change details in your new HTML file
 
 For example change: 
-"<title>Happy Birthday, Name!</title>" 
-To
+
+"<title>Happy Birthday, Name!</title>" <br>
+To <br>
 "<title>Happy Birthday, Dave!</title>"
+
+You must change:
+1. The title tag
+2. The content of the card (Dear ___ and your message)
 
 ## Step Five:
 - Click settings
@@ -46,11 +41,7 @@ Under Branch:
 2. Click save
 
 ### If you don't have a custom domain
-Your card is live at username.github.io/repo-name/user/recipient-name
-
-OR if you put your files at root:
-
-username.github.io/repo-name/recipient-name
+Your card is live at username.github.io/repo-name/recipient-name
 
 ### If you have a custom domain
 - Enter your domain in the "Custom domain" box
@@ -58,11 +49,7 @@ username.github.io/repo-name/recipient-name
   1. Create a CNAME record
   2. Put in a sub-domain or @ for root
   3. Point it to username.github.io
- 
-Your card is live at domain.com/user/recipient-name
 
-OR if you put it at root:
+[Learn more about custom domains](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)
 
-domain.com/recipient-name
-
-
+Your card is live at domain.com/recipient-name
