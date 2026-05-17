@@ -33,6 +33,8 @@ You must change:
 1. The title tag
 2. The content of the card (Dear ___ and your message)
 
+- Commit the changes
+
 ## Step Five:
 - Click settings
 - Navigate to pages section
