@@ -4,6 +4,7 @@
 - Click Use this template
 - Click create a new repository
 - Give it a name
+- Click create
 
 ## Step One:
 - Create a suitable PNG A4 image for the front of your card and name it favicon.png
